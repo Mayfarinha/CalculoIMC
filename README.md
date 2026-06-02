@@ -54,4 +54,4 @@ java Main
 
 ## 👩‍💻 Autora
 
-**Mayara farinha** — [GitHub](https://github.com/Mayfarinha)
+**Mayara Farinha** — [GitHub](https://github.com/Mayfarinha)
